@@ -2,28 +2,37 @@
 
 ## Full Stack Web Developer
 
-I'm a passionate web developer from Morocco specializing in modern web applications.
+Web developer from Morocco building modern full-stack apps with Laravel, PHP, and JavaScript.
 
 ## Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- PHP
-- Laravel
-- MySQL
-- Git & GitHub
+- HTML5 · CSS3 · JavaScript · React.js
+- PHP · Laravel · MySQL
+- Git & GitHub · REST APIs
 
-## Projects
+## Featured project
 
-- Personal Portfolio
+### [YourContact](https://github.com/qaayel/yourcontact)
+
+Smart personal CRM built with **Laravel 12**:
+
+- Contacts (tags, notes, activities, favorites, trash, duplicate merge)
+- Reminders + birthday calendar (private ICS feed)
+- Relationship insights & graph
+- Nexus AI assistant (local helpers + optional Groq)
+- 2FA, Web Push, Sanctum REST API
+- i18n (EN / FR / AR / Darija)
+
+**Repo:** https://github.com/qaayel/yourcontact
+
+## Other projects
+
+- Personal Portfolio — [qaayel/portfolio](https://github.com/qaayel/portfolio)
 - StageUp Platform
 - QR Review System
 - E-commerce Website
 
 ## Contact
 
-- hassanjabiki@gmail.com
-
-- Thanks for visiting my GitHub profile!
+- Email: [hassanjabiki@gmail.com](mailto:hassanjabiki@gmail.com)
+- GitHub: [qaayel](https://github.com/qaayel)
